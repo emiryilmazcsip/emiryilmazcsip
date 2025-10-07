@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @emiryilmazcsip
 - 👀 I’m interested in Red Teaming and also Blue Teaming in Cybersecurity. I am also intrested in website building, video game development, art creation,  etc!
-- 🌱 I’m currently learning GCIS 124, CALC172, MATH190, NSSA 241, POLS120.
+- 🌱 I’m currently learning CSEC 201, CALC173, CHEM141, CHEM145, NSSA 221, POLS205.
 - 💞️ I’m looking to collaborate on ANYTHING! Reach out! I am always looking for more projects to be apart of. 
 - 📫 How to reach me - [Gmail](emir.yilmaz.csip@gmail.com)
 - 😄 Pronouns: He/Him
