@@ -21,10 +21,10 @@
 
 I'm a **third-year Cybersecurity & Political Science student at Rochester Institute of Technology**, interested in the intersection of **security research, reverse engineering, artificial intelligence, and cybersecurity policy**.
 
-- 🔬 Experienced in **malware analysis, security research, and reverse engineering**.
-- 🌱 Building **Talha AI**, an AI-powered malware analysis and reverse engineering assistant.
-- 🛡️ Interested in bridging **cybersecurity and AI** to understand, detect, and defend against AI-driven threats.
-- ⚖️ Exploring how **technical security, risk management, and public policy** fit together.
+-  Experienced in **malware analysis, security research, and reverse engineering**.
+-  Building **Talha AI**, an AI-powered malware analysis and reverse engineering assistant.
+-  Interested in bridging **cybersecurity and AI** to understand, detect, and defend against AI-driven threats.
+-  Exploring how **technical security, risk management, and public policy** fit together.
 
 ## Featured Project - Talha AI
 
