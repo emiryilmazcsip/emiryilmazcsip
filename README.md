@@ -17,7 +17,7 @@
 
 ---
 
-## 👾 About Me
+## About Me
 
 I'm a **third-year Cybersecurity & Political Science student at Rochester Institute of Technology**, interested in the intersection of **security research, reverse engineering, artificial intelligence, and cybersecurity policy**.
 
@@ -26,7 +26,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 - 🛡️ Interested in bridging **cybersecurity and AI** to understand, detect, and defend against AI-driven threats.
 - ⚖️ Exploring how **technical security, risk management, and public policy** fit together.
 
-## 🚀 Featured Project — Talha AI
+## Featured Project — Talha AI
 
 ![Project Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-0E9D71?style=flat-square&labelColor=11352B)
 ![Focus](https://img.shields.io/badge/FOCUS-MALWARE%20ANALYSIS-155E4D?style=flat-square&labelColor=11352B)
@@ -34,7 +34,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 
 **Talha AI** is an independently developed, **AI-powered malware analysis and reverse engineering assistant**. The goal is to combine deterministic security evidence with AI-assisted analysis, giving defenders clearer visibility into suspicious files and code.
 
-| 🧩 Detection & Evidence | 🤖 Reverse Engineering & AI | ☁️ Cloud Architecture |
+| Detection & Evidence | Reverse Engineering & AI | Cloud Architecture |
 | :--- | :--- | :--- |
 | Hash extraction, static behavioral flags, risk classification, and MalwareBazaar threat intelligence | Building workflows around Ghidra/PyGhidra, YARA-X, capa, and LLM-assisted interpretation | Designing around Cloudflare Workers/R2, Google Cloud Run/Tasks, Supabase PostgreSQL, and secure asynchronous processing |
 
@@ -57,9 +57,9 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 
 ---
 
-## 🛡️ Cybersecurity Skills & Toolkit
+## Cybersecurity Skills & Toolkit
 
-### 🔍 Malware Analysis & Reverse Engineering
+### Malware Analysis & Reverse Engineering
 
 ![Ghidra](https://img.shields.io/badge/Ghidra-AC2525?style=plastic)
 ![PyGhidra](https://img.shields.io/badge/PyGhidra-2876AB?style=plastic&logo=python&logoColor=white)
@@ -72,7 +72,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 ![PEiD](https://img.shields.io/badge/PEiD-546E7A?style=plastic)
 ![Resource Hacker](https://img.shields.io/badge/Resource%20Hacker-795548?style=plastic)
 
-### 🧪 Digital Forensics & Behavioral Analysis
+### Digital Forensics & Behavioral Analysis
 
 ![Process Monitor](https://img.shields.io/badge/Process%20Monitor-0078D4?style=plastic&logo=windows&logoColor=white)
 ![RegShot](https://img.shields.io/badge/RegShot-455A64?style=plastic)
@@ -81,7 +81,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 ![Binary Analysis](https://img.shields.io/badge/Binary%20Analysis-6A1B9A?style=plastic)
 ![Windows Analysis](https://img.shields.io/badge/Windows%20Analysis-0078D4?style=plastic&logo=windows&logoColor=white)
 
-### 🌐 Network Security & Threat Intelligence
+### Network Security & Threat Intelligence
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=plastic&logo=virustotal&logoColor=white)
@@ -90,7 +90,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 ![Hash Analysis](https://img.shields.io/badge/Hash%20Analysis-4E342E?style=plastic)
 ![Network Analysis](https://img.shields.io/badge/Network%20Analysis-00838F?style=plastic&logo=wireshark&logoColor=white)
 
-### ⚖️ Governance, Risk & Compliance
+### Governance, Risk & Compliance
 
 ![NIST RMF](https://img.shields.io/badge/NIST%20RMF-003366?style=plastic)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-ED1C24?style=plastic)
@@ -101,7 +101,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Scripting
 
@@ -136,7 +136,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=emiryilmazcsip&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Emir's GitHub statistics" height="180" />
