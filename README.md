@@ -145,19 +145,6 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emiryilmazcsip&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Emir's top languages" height="180" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emiryilmazcsip&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" width="100%" />
-</div>
-
-### 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=emiryilmazcsip&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
-</div>
-
----
 
 <div align="center">
   <strong>Build. Break down. Understand. Defend.</strong>
