@@ -26,7 +26,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 - 🛡️ Interested in bridging **cybersecurity and AI** to understand, detect, and defend against AI-driven threats.
 - ⚖️ Exploring how **technical security, risk management, and public policy** fit together.
 
-## Featured Project — Talha AI
+## Featured Project - Talha AI
 
 ![Project Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-0E9D71?style=flat-square&labelColor=11352B)
 ![Focus](https://img.shields.io/badge/FOCUS-MALWARE%20ANALYSIS-155E4D?style=flat-square&labelColor=11352B)
@@ -53,7 +53,7 @@ I'm a **third-year Cybersecurity & Political Science student at Rochester Instit
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
-> **Build status:** Talha AI is in active development. The full binary-analysis, model, and cloud architecture described above represents the project's ongoing integration and design—not a claim that every component is production-deployed.
+> **Build status:** Talha AI is in active development. The full binary-analysis, model, and cloud architecture described above represents the project's ongoing integration and design; not a claim that every component is production-deployed.
 
 ---
 
